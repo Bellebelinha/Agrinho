@@ -1,4 +1,7 @@
-body{background-color: corDeFundoEmIngles;}
-body{background-image: linear-gradient(to direçãoDoGradiente, PrimeiraCordoGradiente, SegundaCorDoGradiente);}
+body{background: -webkit-linear-gradient(left, #0eca03, #00ffaa);
+    background: -moz-linear-gradient(left, #0eca03, #00f7a4);
+    background: -ms-linear-gradient(left, #0eca03, #00f7a4);
+    background: -o-linear-gradient(left, #0eca03, #00f7a4);
+    background: linear-gradient(to right, #0eca03, #00f7a4);}
 body{text-align: center;}
 footer{text-align: left;}
